@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "245681407428",
+    "project_id": "stepping-stone-game",
+    "storage_bucket": "stepping-stone-game.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245681407428:android:846ad13b0c02930ceb1091",
+        "android_client_info": {
+          "package_name": "com.example.webview_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245681407428-i485f44tgndj2mi5b02921uhchf4ktvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.webview_game",
+            "certificate_hash": "05f96d1855ed932fa93423e0b6c98c4203624b2e"
+          }
+        },
+        {
+          "client_id": "245681407428-quouf9v7hph8t9g7hainp7fu5731dh6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy1PfgQNIqB6SNvNNTH80FSWWCHDjO-jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245681407428-quouf9v7hph8t9g7hainp7fu5731dh6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
